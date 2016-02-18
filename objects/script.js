@@ -28,5 +28,5 @@ students.push(student1);
 students.push(student2);
 
 for (i = 0; i < students.length; i++) {
-  studentInfo(students[i]);
+  studentInfo(students[i])
 }
